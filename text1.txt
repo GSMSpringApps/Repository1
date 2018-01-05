@@ -1,0 +1,10 @@
+ Volume in drive D is Local Disk
+ Volume Serial Number is FED3-7B9C
+
+ Directory of D:\MyProject
+
+01/05/2018  01:19 PM    <DIR>          .
+01/05/2018  01:19 PM    <DIR>          ..
+01/05/2018  01:19 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  31,398,854,656 bytes free
